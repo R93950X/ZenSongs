@@ -1,0 +1,30 @@
+{
+    {
+        title = "Come to Light",
+        album = "Arknights Soundtrack",
+        artists = {"Jeff Williams", "Casey Lee Williams"},
+        KBRate = 96,
+        file = "Songs/Come To Light.dfpwm"
+    },
+    {
+        title = "I Ain't Got Rhythm",
+        album = "Phineas and Ferb",
+        artists = {"Sherman", "Phineas"},
+        KBRate = 96,
+        file = "Songs/I Ain't Got Rhythm.dfpwm"
+    },
+    {
+        title = "Never Gonna Give You Up",
+        album = "Whenever You Need Somebody",
+        artists = {"Rick Astley"},
+        KBRate = 96,
+        file = "Songs/Never Gonna Give You Up.dfpwm"
+    },
+    {
+        title = "War",
+        album = "RWBY Vol. 7",
+        artists = {"Jeff Williams", "Casey Lee Williams", "Dawn M. Bennett", "Adrienne Cowan", "Erin Reilly"},
+        KBRate = 96,
+        file = "Songs/Come To Light.dfpwm",
+    },
+}
