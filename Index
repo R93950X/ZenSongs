@@ -28,7 +28,7 @@
         album = "RWBY Vol. 7",
         artists = {"Jeff Williams", "Casey Lee Williams", "Dawn M. Bennett", "Adrienne Cowan", "Erin Reilly"},
         KBRate = 96,
-        file = "Songs/Come%20To%20Light.dfpwm",
+        file = "Songs/War.dfpwm",
         length = 2458340
     },
 }
