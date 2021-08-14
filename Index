@@ -39,4 +39,12 @@
         file = "Songs/Caffiene.dfpwm",
         length = 2230309
     },
+    {
+        title = "Street Fighter Remix",
+        album = "N/A",
+        artists = {"Antoine Lavenant"},
+        KBRate = 96,
+        file = "Songs/Street Fighter Remix.dfpwm",
+        length = 2585803
+    },
 }
