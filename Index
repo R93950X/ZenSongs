@@ -47,4 +47,12 @@
         file = "Songs/Street Fighter Remix.dfpwm",
         length = 2585803
     },
+    {
+        title = "Ievan Polkka",
+        album = "N/A",
+        artists = {"Loituma"},
+        KBRate = 96,
+        file = "Songs/Ievan Polkka.dfpwm",
+        length = 1967922
+    },
 }
