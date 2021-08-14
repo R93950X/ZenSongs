@@ -31,4 +31,12 @@
         file = "Songs/War.dfpwm",
         length = 2458340
     },
+    {
+        title = "Caffiene",
+        album = "RWBY Vol. 2",
+        artists = {"Jeff Williams", "Casey Lee Williams"},
+        KBRate = 96,
+        file = "Songs/Caffien.dfpwm",
+        length = 2230309
+    },
 }
