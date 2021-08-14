@@ -34,7 +34,7 @@
     {
         title = "Caffiene",
         album = "RWBY Vol. 2",
-        artists = {"Jeff Williams", "Casey Lee Williams"},
+        artists = {"Jeff Williams", "Casey Lee Williams", "Lamar Hall"},
         KBRate = 96,
         file = "Songs/Caffiene.dfpwm",
         length = 2230309
