@@ -55,4 +55,12 @@
         file = "Songs/Ievan Polkka.dfpwm",
         length = 1967922
     },
+    {
+        title = "Polish Cow",
+        album = "Dancing Polish Cow",
+        artists = {"Dancing Cow"},
+        KBRate = 96,
+        file = "Songs/Polish Cow.dfpwm",
+        length = 2921546
+    },
 }
