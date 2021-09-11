@@ -10,7 +10,7 @@
     {
         title = "I Ain't Got Rhythm",
         album = "Phineas and Ferb",
-        artists = {"Sherman", "Phineas"},
+        artists = {"Sherman", "Phineas", "Ferb"},
         KBRate = 48,
         file = "Songs/I Ain't Got Rhythm.dfpwm",
         length = 1019821
